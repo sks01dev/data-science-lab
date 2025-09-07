@@ -31,10 +31,10 @@ This analysis was developed as part of my **Data Science Lab coursework**, and i
 ## 📊 Example Visualizations
 
 - **Geospatial distribution of housing prices**  
-  ![Scatter Mapbox](images/output_29_0.png)
+  ![Scatter Mapbox](output_29_0.png)
 
 - **Feature importance from Ridge regression**  
-  ![Feature Importance](images/output_53_0.png)
+  ![Feature Importance](output_53_0.png)
 
 ---
 
