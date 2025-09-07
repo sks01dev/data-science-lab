@@ -7,7 +7,7 @@ Each project demonstrates practical applications of data wrangling, exploratory 
 
 ## 📌 Projects
 
-- **[Project 2: Mexico City Housing Price Analysis](project2/analysis.md)**  
+- **[Project 2: Mexico City Housing Price Analysis](project_2/analysis.md)**  
   Exploratory analysis and predictive modeling of apartment prices in Mexico City, including geospatial visualizations and a Ridge regression model.
 
 - *(More projects will be added soon...)*
