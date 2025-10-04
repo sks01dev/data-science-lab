@@ -22,7 +22,7 @@ To run this project, you need Python and a few specific libraries for database c
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/sks01dev/data-science-lab/tree/main/Air%20Quality%20in%20Dar%20es%20Salaam%20TZ
     cd dar-es-salaam-air-quality
     ```
 
